@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-16T13:53:17 CET" name="Suite" finished-at="2021-03-16T13:53:37 CET" duration-ms="19686">
+    <groups>
+    </groups>
+    <test started-at="2021-03-16T13:53:17 CET" name="Test" finished-at="2021-03-16T13:53:37 CET" duration-ms="19686">
+      <class name="testLogin.Login1">
+        <test-method signature="t_01_validate_login_zero_app()[pri:0, instance:testLogin.Login1@6aaceffd]" started-at="2021-03-16T13:53:17 CET" name="t_01_validate_login_zero_app" finished-at="2021-03-16T13:53:37 CET" duration-ms="19646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t_01_validate_login_zero_app -->
+      </class> <!-- testLogin.Login1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
