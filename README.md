@@ -10,7 +10,8 @@ Automation testing tools: Eclipse, Selenium, TestNG, Zephyr
 
 ## Setting Up Eclipse to RUN Test
 
-1. Install Eclipse [How To Install Link](https://www.eclipse.org/downloads/packages/installer)
+1. Install Eclipse 
+- [How To Install Link](https://www.eclipse.org/downloads/packages/installer)
 2. Install TestNG to Eclipse 
 - [How To Install Link](https://www.lambdatest.com/blog/how-to-install-testng-in-eclipse-step-by-step-guide/)
 - [Link To Marketplace](https://marketplace.eclipse.org/content/testng-eclipse)
