@@ -18,7 +18,7 @@ Automation testing tools: Eclipse, Selenium, TestNG, Zephyr
 - [Link 1 To TestNG](https://dl.bintray.com/testng-team/testng-eclipse-release/)
 - [Link 2 To TestNG](https://www.eclipse.org/downloads/packages/installer)
 
-3. Download and Set up ChromeDriver in default location  "/usr/local/bin/chromedriver" 
+3. Download and Setup ChromeDriver in default location  "/usr/local/bin/chromedriver" 
 - [Link To Download](https://chromedriver.chromium.org/downloads)
 4. Import Test Project To Eclipse
 5. In Eclipse Package Explorer Window click the arrow on project folder to browse files
